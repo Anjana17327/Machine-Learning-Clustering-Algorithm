@@ -2,11 +2,11 @@ Machine-Learning-Clustering-Algorithm
 
 Objective:
 
-  The objective of this assessment is to evaluate your understanding and ability to apply clustering techniques to a real-world dataset.
+    The objective of this assessment is to evaluate your understanding and ability to apply clustering techniques to a real-world dataset.
 
 Dataset
 
-  Use the Iris dataset available in the sklearn library.
+    Use the Iris dataset available in the sklearn library.
 
 Key components to be fulfilled :
 
